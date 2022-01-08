@@ -1,2 +1,2 @@
 # diepes.github.io
-Static Website
+Static Website on github
